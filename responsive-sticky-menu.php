@@ -14,7 +14,7 @@
  * Plugin Name: Responsive Sticky Menu
  * Plugin URI:  https://github.com/grappler/responsive-sticky-menu
  * Description: A plugin to have a sticky menu on Responsive.
- * Version:     0.1.0
+ * Version:     0.1.1
  * Author:      Ulrich Pogson
  * Author URI:  http://www.ulrich.pogson.ch/
  * Text Domain: responsive-sticky-menu
